@@ -1,0 +1,16 @@
+{
+	"name": "Class Mod New 2.0.9",
+	"description": "[h1]Class mod features[/h1]\nThe mod offers a selection of classes each with its own special abilities and perks. The idea of this class system is not to give a pvp-balanced oriented selection of choices but to give tools for non-combat oriented roleplayers an option to express their characters through the game mechanisms.With that in mind, this mod does not locks already existing parts of the game from anyone ((for example as \\\"warrior\\\" you will still be able to pick the t3 building feat)) but offers new items/spells and effects for each class often with the ability to trade/share...\n\n[h1]Most important overall changes of the game:[/h1]\n[list]\n[*]T2/T3 religious feats are locked for Mystic class, but every recipe of these feats are available for everyone with the right priest thrall captured\n[*] Yellow Lotus potion is broken down into two potions, one for feats one for attributes\\n[*] Removed the attribute bonuses from Armors and Warpaints\n[*] Corruption has a visual effect on players depending on its severity\n[*] More information in the pinned discussion\n[/list]\n\n[h1]Changed assets / compatibility with other mods[/h1]\n[list]\n[*] Modified assets: 00_BP_AC_Buff_Corruption_Heavy/Medium/light\n[*] Yellow lotus potion and recipe overwriten in the Item and Recipe table\n[*] Fist weapon overwriten in the Item table\n[*] Bonus attributes for armors and warpaints overwriten in the ItemStatModificationTable\n[*] Religious perks modified in the FeatsTable\n[*] Priest Thralls modified in the ProfessionTemplateDateTable\n[/list]\n\n[h1]Shendelzare's original mod made compatible by TigeR. Don't forget to rate! Support the mod through my patreon: https://www.patreon.com/bePatron?u=7933145\nAnd join my discord to discuss future changes or give feedback: https://discord.gg/sdKzZQv [/h1]\n\nOriginal Class Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1389681165&searchtext=class+mod\n",
+	"changeNote": "[h1]Changenotes[/h1]\n\n[list]\n[*]Fixed an error where the large golden statue displayed as small\n[*]Added a passive Cat pet for mystics\n[/list]",
+	"author": "TigeR",
+	"authorUrl": "",
+	"versionMajor": 2,
+	"versionMinor": 0,
+	"versionBuild": 9,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1675007244",
+	"steamVisibility": 0,
+	"folderName": "Profession_and_Mastery",
+	"revisionNumber": 130640,
+	"snapshotId": 20988
+}
